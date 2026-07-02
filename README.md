@@ -1,6 +1,6 @@
 # Leonardo.Medina
 My personal repository
-## About me
+## About me:
 - Computer Science student
 - First Year
 ## About my projects:
